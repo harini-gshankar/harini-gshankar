@@ -1,12 +1,12 @@
 # Hi, I'm Harini Gauri Shankar 
 
-🎓 *Master’s in Information Systems and Technology* – University of North Texas (May 2026)  
-📊 *Aspiring Data Analyst / Business Analyst* specializing in Data Analytics
-📍 Based in Denton, TX
+*Master’s in Information Systems and Technology* – University of North Texas (May 2026)  
+*Aspiring Data Analyst / Business Analyst* specializing in Data Analytics
+Based in Denton, TX
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - *Programming:* SQL, Python (Basic)  
 - *Data Analytics:* Data Cleaning, Data Interpretation, Business Analysis, Reporting  
@@ -16,7 +16,7 @@
 
 ---
 
-## 📊 Projects & Experience
+## Experience
 
 - *Secretary – Cybernaut Edu Tech LLP*  
   - Managed schedules, coordinated events, and facilitated communication across teams to ensure smooth operations  
